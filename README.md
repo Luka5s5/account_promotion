@@ -1,1 +1,1 @@
-# account_promotion
+export PYTHONPATH=${PYTHONPATH}:`pwd`

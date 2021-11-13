@@ -1,0 +1,14 @@
+{
+    "fields": "has_photo, last_seen, can_write_private_message",
+    "groups": [
+        "perovo_vao_mos",
+        "molpalata_perovo",
+        "186082333",
+        "leforthovo",
+        "182692677",
+        "moskva_rajon_perovo_vao",
+        "gorodlive_perovo",
+        "perovo_novogireevo_online",
+        "perovohruschevki"
+    ]
+}
